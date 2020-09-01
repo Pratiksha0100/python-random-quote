@@ -1,4 +1,4 @@
-def main():
+def fast():
   print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -6,4 +6,4 @@ def main():
   #f.close()
 
   #print(quotes)
-main()
+fast()
